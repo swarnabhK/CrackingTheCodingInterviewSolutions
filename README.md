@@ -1,2 +1,2 @@
 # CrackingTheCodingInterviewSolutions
-This is a repository containing the python solutions for the CTCI
+This is a repository containing the python solutions for CTCI book.
