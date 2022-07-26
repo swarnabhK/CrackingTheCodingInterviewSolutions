@@ -36,6 +36,7 @@ def isOneEditAway_insertDelete(s1,s2):
   except:
     return False
 
+
 def isOneEditAway(s1,s2):
   if((len(s1)+1==len(s2)) or (len(s1)-1==len(s2))):
     return isOneEditAway_insertDelete(s1,s2)
